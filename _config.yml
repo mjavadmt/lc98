@@ -4,7 +4,7 @@ course_name: Some Course Title
 course_description: Course description.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: Hakem beytollahi
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
