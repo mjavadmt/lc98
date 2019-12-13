@@ -26,7 +26,7 @@ permalink: /syllabus/
 ### Fourth item : modeling digital systems
 
 # recommended grading
-## 10% handwriting homeworks
-## 25% projects
-## 25% midterm exam 
-## 40% final exam
+### 10% handwriting homeworks
+### 25% projects
+### 25% midterm exam 
+### 40% final exam
