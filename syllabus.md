@@ -9,10 +9,10 @@ permalink: /syllabus/
 
 <h1> course goals </h1>
 **introduction with designing circuits and digital system, analysis procedure and solving their problems**
-# First item
+
 
 # book refrences
-- Second item
-- Third item
-- Fourth item
-ojo
+[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.
+[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.
+[3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.
+[4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119.
