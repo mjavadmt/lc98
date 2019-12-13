@@ -6,7 +6,9 @@ permalink: /syllabus/
 
 Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
 <h1> course goals </h1>
+introduction 
 # First item
+
 
 - Second item
 - Third item
