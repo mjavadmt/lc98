@@ -12,7 +12,7 @@ permalink: /syllabus/
 
 
 # book refrences
-[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.<br/>
-[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.
-[3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.
-[4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119.
+**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.<br/>**
+**[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.<br/>**
+**[3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.<br/>**
+**[4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119.<br/>**
