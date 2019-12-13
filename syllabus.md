@@ -3,7 +3,8 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-
+<h1>course</h1>
+** logic circuits **
 
 
 
@@ -19,7 +20,7 @@ permalink: /syllabus/
 
 
 # course conclusion
-### First item
-### Second item
-### Third item
-### Fourth item
+### First item : fundemantal concepts about systems and and digital circuits
+### Second item : desiginig digital systems
+### Third item : analysing digital systems
+### Fourth item : modeling digital systems
