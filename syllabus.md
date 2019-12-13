@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 <h1>course</h1>
-** logic circuits **
+**logic circuits**
 
 
 
