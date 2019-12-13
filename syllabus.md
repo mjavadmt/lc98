@@ -16,3 +16,10 @@ permalink: /syllabus/
 **[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.<br/>**
 **[3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.<br/>**
 **[4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119.<br/>**
+
+
+# course conclusion
++ First item
+* Second item
+- Third item
++ Fourth item
