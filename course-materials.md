@@ -4,6 +4,6 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuit about(english version)
+* you can click [here](http://engold.ui.ac.ir/~rasti/Courses/Logic_Circuits/Logic%20Circuits%20Notes.pdf) to see what is logic circuit about(persion version)
