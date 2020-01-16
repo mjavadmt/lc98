@@ -3,11 +3,11 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-Here's an image of a drag racer in action:
+Here's an image of a logic circuits:
 
 ![Drag Racing](/_images/lc.png)
 
-Move along.
+
 
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuit about(english version)
@@ -15,4 +15,5 @@ Move along.
 
 ## book reference which was mentioned in syllabus
 
-* http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf
+**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.**[book]
+(http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)
