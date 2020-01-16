@@ -15,5 +15,5 @@ Here's an image of a logic circuits:
 
 ## book reference which was mentioned in syllabus
 
-### S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.
-[book](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)
+[S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)
+<!-- [C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.] -->
