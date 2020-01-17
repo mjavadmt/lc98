@@ -12,7 +12,7 @@ Here's an image of a logic circuits:
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
 * you can click [here](http://engold.ui.ac.ir/~rasti/Courses/Logic_Circuits/Logic%20Circuits%20Notes.pdf) to see what is logic circuits about(persion version)
-
+* these sites ([1](https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm)[2](https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101/logic-gates-and-circuits/a/logic-gates)[3](https://logic.ly/lessons/))perhaps help you to get a total imagination about logic gates
 ## book reference which was mentioned in syllabus
 
 [S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/>
