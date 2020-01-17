@@ -17,3 +17,4 @@ Here's an image of a logic circuits:
 
 [S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/>
 [C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.](https://www.cengage.com/c/digital-logic-and-microprocessor-design-with-interfacing-2e-hwang/9781133628477/)<br/>
+[Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf)
