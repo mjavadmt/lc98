@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Students who studied well
-permalink: /course_websites/
+permalink: //
 ---
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
