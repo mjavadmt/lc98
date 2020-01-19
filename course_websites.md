@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Websites
+title: Students who studied well
 permalink: /course_websites/
 ---
 
