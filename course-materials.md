@@ -9,6 +9,12 @@ Here's an image of a logic circuits:
 
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}
 *Fig. 2: The minimum dominating set of a graph*
+
+
+<figure>
+  <img src="/_images/iust.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli.</figcaption>
+</figure>
  
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
