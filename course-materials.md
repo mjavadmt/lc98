@@ -12,7 +12,7 @@ Here's an image of a logic circuits:
 
 
 <figure>
-  <img src="/_images/iust.png" alt="Trulli" style="width:100%">
+  <img src="/_images/lc.png" alt="Trulli" style="width:100%">
   <figcaption>Fig.1 - Trulli.</figcaption>
 </figure>
  
