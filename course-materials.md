@@ -10,6 +10,9 @@ Here's an image of a logic circuits:
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}
 
+<pre> my text </pre>
+<pre> your text </pre>
+
 
 
 
