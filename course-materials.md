@@ -13,7 +13,7 @@ Here's an image of a logic circuits:
 
 <figure>
   <img src="/_images/lc.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli.</figcaption>
+  <figcaption>Fig.1 .</figcaption>
 </figure>
  
 
