@@ -7,7 +7,7 @@ Here's an image of a logic circuits:
 
 ![Drag Racing11111](/_images/lc.png)
 
-!["dominating_sets_example2"](http://sparkandshine.net/wordpress/wp-content/uploads/2016/02/dominating_sets_example2.png)
+!["dominating_sets_example2"](/_images/lc.png)
 *Fig. 2: The minimum dominating set of a graph*
  
 
