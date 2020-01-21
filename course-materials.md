@@ -7,7 +7,9 @@ Here's an image of a logic circuits:
 
 ![Drag Racing11111](/_images/lc.png)
 
-!["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}you bi
+!["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}!["dominating_sets_example2"](/_images/hispic1.jpg){:height="15%" width="15%"}
+
+
 
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
