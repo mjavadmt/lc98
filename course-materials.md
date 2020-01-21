@@ -10,7 +10,7 @@ Here's an image of a logic circuits:
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"}
 
-* my text &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your text
+* my text &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your text
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
 * you can click [here](http://engold.ui.ac.ir/~rasti/Courses/Logic_Circuits/Logic%20Circuits%20Notes.pdf) to see what is logic circuits about(persion version)
