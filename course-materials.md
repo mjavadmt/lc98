@@ -6,7 +6,10 @@ permalink: /course-materials/
 Here's an image of a logic circuits:
 
 ![Drag Racing](/_images/lc.png)
-
+<div class="Course-materual--image-cover-container">
+            <img src="/_images/hispic1.jpg" class="Course-material--image-cover">
+            <p><a href="https://github.com/mahdi-javid/CSE/raw/master/download/7th%20Edition-cryptography%20and%20network%20security%20stallings.pdf">Cryptography and Network Security Principles and Practice (7th Edition) by William Stallings</a></p>
+        </div>
 
 
 
