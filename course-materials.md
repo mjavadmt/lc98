@@ -7,6 +7,10 @@ Here's an image of a logic circuits:
 
 ![Drag Racing11111](/_images/lc.png)
 
+!["dominating_sets_example2"](http://sparkandshine.net/wordpress/wp-content/uploads/2016/02/dominating_sets_example2.png)
+*Fig. 2: The minimum dominating set of a graph*
+ 
+
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
 * you can click [here](http://engold.ui.ac.ir/~rasti/Courses/Logic_Circuits/Logic%20Circuits%20Notes.pdf) to see what is logic circuits about(persion version)
 * these sites ([1](https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm)---[2](https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101/logic-gates-and-circuits/a/logic-gates)---[3](https://logic.ly/lessons/)---[4 this is video](https://www.youtube.com/watch?v=lXWpWNKwYbo))perhaps help you to get a total imagination about logic gates
