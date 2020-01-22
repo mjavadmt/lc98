@@ -55,6 +55,7 @@ permalink: /education/
       <th style="text-align: center">Field of Studying</th>
       <th style="text-align: center">Date</th>
       <th style="text-align: center">Thesis</th> 
+      <th>uni logo</th>
     </tr>
   </thead>
   <tbody>
@@ -64,6 +65,7 @@ permalink: /education/
       <td style="text-align: center">Electrical and Computer Engineering Department </td>
       <td style="text-align: center">1998 'till 2002</td>
       <td style="text-align: center">Design and implementation of a mini-processor system</td>
+      <td><img src="http://veshko.ir/wp-content/uploads/Daneshgah-Elmo-Sanat.jpg" alt="" height=100 width=100></img></td>
     </tr>
     <tr>
       <td style="text-align: center">MS</td>
