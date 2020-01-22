@@ -78,7 +78,7 @@ permalink: /education/
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">7/14</td>
       <td style="text-align: center">7/16</td>
@@ -194,7 +194,7 @@ permalink: /education/
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
