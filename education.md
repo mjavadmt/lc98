@@ -59,18 +59,18 @@ permalink: /education/
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">BC</td>
+      <td style="text-align: center">BS</td>
       <td style="text-align: center">Tehran unsiversity</td>
       <td style="text-align: center">Electrical and Computer Engineering Department </td>
       <td style="text-align: center">1998 'till 2002</td>
       <td style="text-align: center">Design and implementation of a mini-processor system</td>
     </tr>
     <tr>
-      <td style="text-align: center">2</td>
-      <td style="text-align: center">7/7</td>
-      <td style="text-align: center">7/09</td>
-      <td style="text-align: center">Python:Intro</td>
-      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">MS</td>
+      <td style="text-align: center">Sharif University</td>
+      <td style="text-align: center">ComPuter Engineering</td>
+      <td style="text-align: center">2002 'till 2005</td>
+      <td style="text-align: center"> Fault Detection and Recovery in Real-Time Embedded Systems </td>
     </tr>
     <!-- <tr>
       <td style="text-align: center">3</td>
