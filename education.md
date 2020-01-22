@@ -50,24 +50,20 @@ permalink: /education/
 <table>
   <thead>
     <tr>
-      <th style="text-align: center">Week</th>
-      <th style="text-align: center">Saturday</th>
-      <th style="text-align: center">Monday</th>
-      <th style="text-align: center">Lecture Topic</th>
-      <th style="text-align: center">HW Topic</th>
-      <th style="text-align: center">HW Release</th>
-      <th>Occasion</th>
+      <th style="text-align: center">Grade</th>
+      <th style="text-align: center">University</th>
+      <th style="text-align: center">Field of Studying</th>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Thesis</th> 
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">1</td>
-      <td style="text-align: center">6/31</td>
-      <td style="text-align: center">7/02</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">&nbsp;</td>
-      <td style="text-align: center">&nbsp;</td>
-      <td>University Orientation</td>
+      <td style="text-align: center">BC</td>
+      <td style="text-align: center">Tehran unsiversity</td>
+      <td style="text-align: center">Electrical and Computer Engineering Department </td>
+      <td style="text-align: center">1998 'till 2002</td>
+      <td style="text-align: center">Design and implementation of a mini-processor system</td>
     </tr>
     <tr>
       <td style="text-align: center">2</td>
@@ -75,8 +71,6 @@ permalink: /education/
       <td style="text-align: center">7/09</td>
       <td style="text-align: center">Python:Intro</td>
       <td style="text-align: center">&nbsp;</td>
-      <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp;</td>
     </tr>
     <!-- <tr>
       <td style="text-align: center">3</td>
