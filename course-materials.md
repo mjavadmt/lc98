@@ -20,4 +20,4 @@ Here's an image of a logic circuits:
 ![nothing](https://www.cengage.com/covers/imageServlet?image_type=LRGFC&catalog=cengage&epi=9247124245054586181494368190248883261){:height="20%" width="20%"}
 [**[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.**](https://www.cengage.com/c/digital-logic-and-microprocessor-design-with-interfacing-2e-hwang/9781133628477/)<br/>
 ![nothing](https://images-na.ssl-images-amazon.com/images/I/51%2Br2K1I5bL.jpg){:height="20%" width="20%"}
-[Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf)
+[**[3]Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119**](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf)
