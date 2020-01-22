@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Syllabus
-permalink: /syllabus/
+title: Sy
+permalink: /education/
 ---
 
 in this i wanna introduce you with master
