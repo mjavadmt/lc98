@@ -15,7 +15,7 @@ Here's an image of a logic circuits:
 * these sites ([1](https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm)---[2](https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101/logic-gates-and-circuits/a/logic-gates)---[3](https://logic.ly/lessons/)---[4 this is video](https://www.youtube.com/watch?v=lXWpWNKwYbo))perhaps help you to get a total imagination about logic gates
 ## book reference which was mentioned in syllabus
 
-![homepage](https://m.media-amazon.com/images/I/51CRv68gJzL._SR500,500_.jpg){:height="20%" width="20%"}[**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.**](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/><br/>
+![homepage](https://m.media-amazon.com/images/I/51CRv68gJzL._SR500,500_.jpg){:height="23%" width="23%"}[**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.**](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/><br/>
 
 ![nothing](https://www.cengage.com/covers/imageServlet?image_type=LRGFC&catalog=cengage&epi=9247124245054586181494368190248883261){:height="20%" width="20%"}
 [**[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.**](https://www.cengage.com/c/digital-logic-and-microprocessor-design-with-interfacing-2e-hwang/9781133628477/)<br/><br/>
