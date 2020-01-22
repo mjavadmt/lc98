@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: professor education
 permalink: /education/
 ---
 
