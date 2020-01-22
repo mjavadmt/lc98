@@ -22,4 +22,6 @@ Here's an image of a logic circuits:
 ![nothing](https://images-na.ssl-images-amazon.com/images/I/51%2Br2K1I5bL.jpg){:height="20%" width="20%"}
 [**[3]Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119**](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf)<br/><br/>
 ![nothing](http://webpages.iust.ac.ir/beitollahi/Teaching_files/image004.jpg){:height="20%" width="20%"}
-[**[4] David A Patterson, “Computer Organization and Design”, Morgan Kaufmann Publisher**](http://ac.aua.am/arm/public/2017-Spring-Computer-Organization/Textbooks/ComputerOrganizationAndDesign5thEdition2014.pdf)
+[**[4] David A Patterson, “Computer Organization and Design”, Morgan Kaufmann Publisher**](http://ac.aua.am/arm/public/2017-Spring-Computer-Organization/Textbooks/ComputerOrganizationAndDesign5thEdition2014.pdf)<br/><br/>
+![nothing](https://images-na.ssl-images-amazon.com/images/I/41RWPNedzpL._SX387_BO1,204,203,200_.jpg){:height="20%" width="20%"}
+[**[4]V.A. Pedroni, “Circuit Design with VHDL**](http://www.pld.ttu.ee/~alsu/Pedroni_2010_Circuit%20Design%20and%20Simulation%20with%20VHDL.pdf)
