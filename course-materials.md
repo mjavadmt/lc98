@@ -28,7 +28,7 @@ Here's an image of a logic circuits:
 ![nothing](https://images-na.ssl-images-amazon.com/images/I/41EK9AM4XDL._SX344_BO1,204,203,200_.jpg
 ){:height="20%" width="20%"}
 [**[6]J. Lui, “Real-Time Systems”**](http://www.inf.ufrgs.br/~flavio/ensino/cmp502/TutorialRammig.pdf)<br/><br/>
-![nothing](https://images-eu.ssl-images-amazon.com/images/I/514qbVOCudL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_.jpg){:height="20%" width="20%"}
+![nothing](https://images-eu.ssl-images-amazon.com/images/I/514qbVOCudL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_.jpg){:height="50%" width="50%"}
 [**[7]Introduction to Reconfigurable Computing**](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Reconfigurable%20Computing_%20Architectures%2C%20Algorithms%20and%20Applications%20%5BBobda%202007-11-09%5D.pdf)<br/><br/>
 
 
