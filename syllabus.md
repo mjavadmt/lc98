@@ -31,7 +31,7 @@ permalink: /syllabus/
 ### 25% midterm exam 
 ### 40% final exam
 <h1> <span style="color:blue">what you learn in logic gates </span></h1>
-<h2>1. basic concepts</h2>
+<h3>1. basic concepts</h3>
     * history of digital system
     * application of digital system in current world
     * digital system fundamental and its difference with analog system
@@ -39,8 +39,12 @@ permalink: /syllabus/
     * theory of numebrs
     * calculating in digital in system
     * concepts like carry and overflow
-* 1\. item 
-    * 1.1\. item
-    * 1.2\. item
-* 2\. item 
+<h3> 3. bol algebra </h3>
+    * bol algebra principles
+    * functions and operators and logical gates
+    * bol algebra relations 
+<h3> 4. designing and analysis mixed logical systems </h3> 
+    * methodos of simpling circuits with algebra bol
+    * optimization circuits with bol algerba
+    * concepts like glitch , hazard , race , delay
        
