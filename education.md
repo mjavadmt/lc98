@@ -213,7 +213,8 @@ permalink: /education/
 
 
 <!-- <h1> <span style="color:blue">research and projects have done </span></h1> -->
-
+<h1> <span style="color:blue">refrenced books </span></h1>
+**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.<br/>**
 **Dependability**<br/>
 **Real-Time Systems**<br/>
 **Reconfigurable Computing** <br/>
