@@ -214,7 +214,7 @@ permalink: /education/
 
 <h1> <span style="color:blue">research and projects have done </span></h1>
 
-**Dependability** <br/>
+**Dependability <br/>**
 **Real-Time Systems**<br/>
 **Reconfigurable Computing** <br/>
 **Hardware Security** <br/>
