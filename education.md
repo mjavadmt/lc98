@@ -89,7 +89,7 @@ permalink: /education/
       <td style="text-align: center">ComPuter Engineering</td>
       <td style="text-align: center">2016 'till present</td>
       <td style="text-align: center"> -</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Sharif_Logo.png" height = "100" width = "100" alt="your"></td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Sharif_Logo.png" height = "101" width = "100" alt="your"></td>
     </tr>
     <!-- <tr>
       <td style="text-align: center">3</td>
