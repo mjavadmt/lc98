@@ -39,4 +39,8 @@ permalink: /syllabus/
     * theory of numebrs
     * calculating in digital in system
     * concepts like carry and overflow
+* 1\. item 
+    * 1.1\. item
+    * 1.2\. item
+* 2\. item 
        
