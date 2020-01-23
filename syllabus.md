@@ -30,3 +30,4 @@ permalink: /syllabus/
 ### 25% projects
 ### 25% midterm exam 
 ### 40% final exam
+<h1> <span style="color:blue">what you learn in logic gates </span></h1>
