@@ -3,9 +3,9 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-Here's an image of a logic circuits:
+<!-- Here's an image of a logic circuits:
 
-[![homepage](/_images/lc.png)](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf)
+[![homepage](/_images/lc.png)](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf) -->
 <!-- !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} -->
 
@@ -14,10 +14,7 @@ Here's an image of a logic circuits:
 * you can click [here](http://engold.ui.ac.ir/~rasti/Courses/Logic_Circuits/Logic%20Circuits%20Notes.pdf) to see what is logic circuits about(persion version)
 * these sites ([1](https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm)---[2](https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101/logic-gates-and-circuits/a/logic-gates)---[3](https://logic.ly/lessons/)---[4 this is video](https://www.youtube.com/watch?v=lXWpWNKwYbo))perhaps help you to get a total imagination about logic gates
 ## book reference which was mentioned in syllabus
-<figure>
-  <img src="https://images-na.ssl-images-amazon.com/images/I/41EK9AM4XDL._SX344_BO1,204,203,200_.jpg" alt="Trulli" style="width:10%">
-  <figcaption><h2>Fig.1 - Trulli, Puglia, Italy they have gomne so long that they cannot be seen even if we wear sunglases.so my recommnedation for you is that you go much longer </h2></figcaption>
-</figure>
+
 ![homepage](https://m.media-amazon.com/images/I/51CRv68gJzL._SR500,500_.jpg){:height="23%" width="23%"}[**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.**](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/><br/>
 
 ![nothing](https://www.cengage.com/covers/imageServlet?image_type=LRGFC&catalog=cengage&epi=9247124245054586181494368190248883261){:height="20%" width="20%"}
