@@ -65,7 +65,7 @@ permalink: /education/
       <td style="text-align: center">Electrical and Computer Engineering Department </td>
       <td style="text-align: center">1998 'till 2002</td>
       <td style="text-align: center">Design and implementation of a mini-processor system</td>
-      <td><img src="http://veshko.ir/wp-content/uploads/Daneshgah-Elmo-Sanat.jpg"  alt="your"></td>
+      <td><img src="http://veshko.ir/wp-content/uploads/Daneshgah-Elmo-Sanat.jpg" height = "20" width = "20" alt="your"></td>
     </tr>
     <tr>
       <td style="text-align: center">MS</td>
