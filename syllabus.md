@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<h1>course</h1>
+<h1><span style="color:blue">course goals </span></h1>
 **logic circuits**
 
 
@@ -12,7 +12,7 @@ permalink: /syllabus/
 **introduction with designing circuits and digital system, analysis procedure and solving their problems**
 
 
-# book refrences
+<h1> <span style="color:blue">refrenced books </span></h1>
 **[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.<br/>**
 **[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.<br/>**
 **[3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.<br/>**
