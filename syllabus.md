@@ -19,13 +19,13 @@ permalink: /syllabus/
 **[4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119.<br/>**
 
 
-# course conclusion
+<h1> <span style="color:blue">course conclusion </span></h1>
 ### First item : fundemantal concepts about systems and and digital circuits
 ### Second item : desiginig digital systems
 ### Third item : analysing digital systems
 ### Fourth item : modeling digital systems
 
-# recommended grading
+<h1> <span style="color:blue">recommended grading </span></h1>
 ### 10% handwriting homeworks
 ### 25% projects
 ### 25% midterm exam 
