@@ -32,11 +32,11 @@ permalink: /syllabus/
 ### 40% final exam
 <h1> <span style="color:blue">what you learn in logic gates </span></h1>
 <h3> 1. basic concepts</h3>
-       * history of digital system
-       * application of digital system in current world
-       * digital system fundamental and its difference with analog system
+    * history of digital system
+    * application of digital system in current world
+    * digital system fundamental and its difference with analog system
 <h3> 2. numerical systems </h3>
-       * theory of numebrs
-       * calculating in digital in system
-       * concepts like carry and overflow
+    * theory of numebrs
+    * calculating in digital in system
+    * concepts like carry and overflow
        
