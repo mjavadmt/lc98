@@ -16,7 +16,7 @@ Here's an image of a logic circuits:
 ## book reference which was mentioned in syllabus
 <figure>
   <img src="https://images-na.ssl-images-amazon.com/images/I/41EK9AM4XDL._SX344_BO1,204,203,200_.jpg" alt="Trulli" style="width:10%">
-  <figcaption><h2>Fig.1 - Trulli, Puglia, Italy.</h2></figcaption>
+  <figcaption><h2>Fig.1 - Trulli, Puglia, Italy they have gomne so long that they cannot be seen even if we wear sunglases.so my recommnedation for you is that you go much longer </h2></figcaption>
 </figure>
 ![homepage](https://m.media-amazon.com/images/I/51CRv68gJzL._SR500,500_.jpg){:height="23%" width="23%"}[**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.**](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/><br/>
 
