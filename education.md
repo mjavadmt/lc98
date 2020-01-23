@@ -81,7 +81,7 @@ permalink: /education/
       <td style="text-align: center">ComPuter Engineering</td>
       <td style="text-align: center">2007 'till 2012</td>
       <td style="text-align: center"> Protecting Network-Based Systems from Denial-of-Service Attacks </td>
-            <td><img src="https://nieuws.kuleuven.be/en/content/2012/University_opts_for_KU_Leuven/image" height = "100" width = "100" alt="your"></td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/KUL.svg" height = "100" width = "100" alt="your"></td>
     </tr>
     <tr>
       <td style="text-align: center">Assistant Professor</td>
