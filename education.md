@@ -213,7 +213,7 @@ permalink: /education/
 
 
 <h1> <span style="color:blue">research and projects have done </span></h1>
-
+**[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.**
 ** Dependability ** 
 ** Real-Time Systems **
 ** Reconfigurable Computing ** 
