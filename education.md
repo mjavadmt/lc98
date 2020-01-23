@@ -211,7 +211,6 @@ permalink: /education/
   </tbody>
 </table>
 <br/><br/>
-![homepage](https://m.media-amazon.com/images/I/51CRv68gJzL._SR500,500_.jpg){:height="23%" width="23%"}[**[1] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd Edition, McGraw-Hill, 2111.**](http://read.pudn.com/downloads668/ebook/2704807/Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design-Third%20edition.pdf)<br/><br/>
 
 <h1> <span style="color:blue">research and projects have done </span></h1>
 
