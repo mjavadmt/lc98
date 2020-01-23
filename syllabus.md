@@ -31,3 +31,8 @@ permalink: /syllabus/
 ### 25% midterm exam 
 ### 40% final exam
 <h1> <span style="color:blue">what you learn in logic gates </span></h1>
+<h3> 1. basic concepts</h3>
+       * history of digital system
+       * application of digital system in current world
+       * digital system fundamental and its difference with analog system
+       
