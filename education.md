@@ -214,11 +214,11 @@ permalink: /education/
 
 <h1> <span style="color:blue">research and projects have done </span></h1>
 
-<h4>Dependability<br/></h4>
-<h4>Real-Time Systems<br/></h4>
-<h4>Reconfigurable Computing<br/></h4>
-<h4>Hardware Security<br/></h4>
-<h4>Hardware Support for AI<br/></h4>
+<h4>- Dependability<br/></h4>
+<h4>- Real-Time Systems<br/></h4>
+<h4>- Reconfigurable Computing<br/></h4>
+<h4>- Hardware Security<br/></h4>
+<h4>- Hardware Support for AI<br/></h4>
 
 
 
