@@ -231,6 +231,8 @@ permalink: /education/
 
 ## for more information you check his [google scholar](https://scholar.google.com/citations?user=SMnMHbQAAAAJ&hl=en)
 
+<h2>for more information you check his<a href="https://scholar.google.com/citations?user=SMnMHbQAAAAJ&hl=en">Google Scholar</a></h2>
+
 
 
 
