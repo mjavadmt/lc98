@@ -78,7 +78,7 @@ permalink: /education/
     <tr>
       <td style="text-align: center">PHD</td>
       <td style="text-align: center">(KU Leuven), Belgium</td>
-      <td style="text-align: center">ComPuter Engineering</td>
+      <td style="text-align: center">computer systems Architecture</td>
       <td style="text-align: center">2007 'till 2012</td>
       <td style="text-align: center"> Protecting Network-Based Systems from Denial-of-Service Attacks </td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/KUL.svg" height = "100" width = "100" alt="your"></td>
@@ -86,7 +86,7 @@ permalink: /education/
     <tr>
       <td style="text-align: center">Assistant Professor</td>
       <td style="text-align: center">science and technology university</td>
-      <td style="text-align: center">ComPuter Engineering</td>
+      <td style="text-align: center">Logic gates</td>
       <td style="text-align: center">2016 'till present</td>
       <td style="text-align: center"> -</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" height = "101" width = "100" alt="your"></td>
