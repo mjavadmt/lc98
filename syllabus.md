@@ -47,10 +47,14 @@ permalink: /syllabus/
     * methodos of simpling circuits with algebra bol
     * optimization circuits with bol algerba
     * concepts like glitch , hazard , race , delay
+<h3> 5.  designing and analysis sequential logical system </h3>
+    * introducing memory's element and flip flop
+    * delay in spreading memory's element
+    * introducing sequential chip
 
 <h1> <span style="color:blue">program needed </span></h1>
 
-**ISE**<br/>
-**VHDL**<br/>
-**Verilog**<br/>
-**Proteus**<br/>
+**-ISE**<br/>
+**-VHDL**<br/>
+**-Verilog**<br/>
+**-Proteus**<br/>
