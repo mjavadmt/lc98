@@ -64,7 +64,7 @@ permalink: /course-materials/
 <td>0</td>
 <td>1
 </td></tr></tbody></table>
-
+<br/><br/>
 
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
