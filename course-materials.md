@@ -9,7 +9,7 @@ permalink: /course-materials/
 <!-- !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} -->
 <h1> <span style="color:blue">here is the truth table of logic gates </span></h1>
-<table class="wikitable">
+<table class="wikitable margin-left:auto;margin-right:auto">
 
 <tbody><tr style="background:#def; text-align:center;">
 <td colspan="2"><b>INPUT</b></td>
