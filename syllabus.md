@@ -39,13 +39,13 @@ permalink: /syllabus/
     * theory of numebrs
     * calculating in digital in system
     * concepts like carry and overflow
-<h3> 3. bol algebra </h3>
-    * bol algebra principles
+<h3> 3. bool algebra </h3>
+    * bool algebra principles
     * functions and operators and logical gates
-    * bol algebra relations 
+    * bool algebra relations 
 <h3> 4. designing and analysis mixed logical systems </h3> 
-    * methodos of simpling circuits with algebra bol
-    * optimization circuits with bol algerba
+    * methodos of simpling circuits with algebra bool
+    * optimization circuits with bool algerba
     * concepts like glitch , hazard , race , delay
 <h3> 5.  designing and analysis sequential logical system </h3>
     * introducing memory's element and flip flop

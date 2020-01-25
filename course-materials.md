@@ -8,6 +8,63 @@ permalink: /course-materials/
 [![homepage](/_images/lc.png)](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf) -->
 <!-- !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} -->
+<table class="wikitable">
+
+<tbody><tr style="background:#def; text-align:center;">
+<td colspan="2"><b>INPUT</b></td>
+<td colspan="6"><b>OUTPUT</b>
+</td></tr>
+<tr style="background:#def; text-align:center;">
+<td>A</td>
+<td>B</td>
+<td>AND</td>
+<td>NAND</td>
+<td>OR</td>
+<td>NOR</td>
+<td>XOR</td>
+<td>XNOR
+</td></tr>
+<tr style="background:#dfd; text-align:center;">
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1
+</td></tr>
+<tr style="background:#dfd; text-align:center;">
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr style="background:#dfd; text-align:center;">
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr style="background:#dfd; text-align:center;">
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1
+</td></tr></tbody></table>
+
 
 
 * you can click [here](http://uav.ece.nus.edu.sg/~bmchen/courses/EG1108_Digital.pdf) to see what is logic circuits about(english version)
