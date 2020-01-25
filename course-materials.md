@@ -8,6 +8,7 @@ permalink: /course-materials/
 [![homepage](/_images/lc.png)](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf) -->
 <!-- !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 !["dominating_sets_example2"](/_images/hispic1.jpg){:height="10%" width="10%"} -->
+<h1> <span style="color:blue">here is the truth table of logic gates </span></h1>
 <table class="wikitable">
 
 <tbody><tr style="background:#def; text-align:center;">
