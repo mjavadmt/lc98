@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<h1><span style="color:blue">course goals </span></h1>
+<h1><span style="color:blue">course name </span></h1>
 **logic circuits**
 
 
