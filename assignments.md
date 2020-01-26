@@ -15,7 +15,7 @@ permalink: /assignments/
 </strong> 
       </li>
   <li class="archiveposturl" style="background: transparent">
-        <span><a href="/fc98/assignments/04_c_assignment2">logic gates homework</a></span>
+        <span><a href="https://utah.instructure.com/files/71707695/download?download_frd=1">logic gates homework</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download problems (pdf)" href="https://utah.instructure.com/files/71707695/download?download_frd=1"><i class="fas fa-file-pdf"></i></a> 
 
