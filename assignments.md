@@ -11,7 +11,7 @@ permalink: /assignments/
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download problems (pdf)" href=http://www.physics.unlv.edu/~bill/PHYS483/hwk_9.pdf><i class="fas fa-file-pdf"></i></a> 
 
-&nbsp; <a title="Download attachments (zip)" href="/fc98/static_files/assignments/CA2.zip"><i class="fas fa-file-archive"></i></a>
+<!-- &nbsp; <a title="Download attachments (zip)" href="/fc98/static_files/assignments/CA2.zip"><i class="fas fa-file-archive"></i></a> -->
 
 </strong> 
       </li>
