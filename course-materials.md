@@ -77,7 +77,7 @@ permalink: /course-materials/
 
 ![nothing](https://www.cengage.com/covers/imageServlet?image_type=LRGFC&catalog=cengage&epi=9247124245054586181494368190248883261){:height="20%" width="20%"}
 [**[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9th Edition, 2119.**](https://www.cengage.com/c/digital-logic-and-microprocessor-design-with-interfacing-2e-hwang/9781133628477/)<br/><br/>
-![nothing]https://images-na.ssl-images-amazon.com/images/I/91%2BJvLj66DL.jpg){:height="20%" width="20%"}
+![nothing](https://images-na.ssl-images-amazon.com/images/I/91%2BJvLj66DL.jpg){:height="20%" width="20%"}
 [**[3]Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic Circuit Analysis and Design. Prentice Hall, 0119**](http://jrasti.ir/Lessons/Logic_Circuits/Digital%20Logic%20Circuit%20Analysis%20and%20Design.pdf)<br/><br/>
 ![nothing](http://webpages.iust.ac.ir/beitollahi/Teaching_files/image004.jpg){:height="20%" width="20%"}
 [**[4] David A Patterson, “Computer Organization and Design”, Morgan Kaufmann Publisher**](http://ac.aua.am/arm/public/2017-Spring-Computer-Organization/Textbooks/ComputerOrganizationAndDesign5thEdition2014.pdf)<br/><br/>
