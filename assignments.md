@@ -5,6 +5,20 @@ permalink: /assignments/
 ---
 
 <ul id="archive">
+
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="/fc98/assignments/04_c_assignment2">C-Assignment 2 - Arrays, struct, dynamic memory and function pointers</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download problems (pdf)" href="/fc98/static_files/assignments/CAssignment2.pdf"><i class="fas fa-file-pdf"></i></a> 
+
+&nbsp; <a title="Download attachments (zip)" href="/fc98/static_files/assignments/CA2.zip"><i class="fas fa-file-archive"></i></a>
+
+</strong> 
+      </li>
+
+     
+
+<!-- <ul id="archive">
 {% for asg in site.assignments reversed %}
       <li class="archiveposturl" style="background: transparent">
         <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
@@ -16,4 +30,4 @@ permalink: /assignments/
 </strong> 
       </li>
 {% endfor %}
-</ul>
+</ul> -->
