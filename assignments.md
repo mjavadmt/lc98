@@ -26,12 +26,16 @@ permalink: /assignments/
         <span><a href="https://www.physics.wisc.edu/undergrads/courses/fall2017/321/homework/hw12.pdf">logic gates homework</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download problems (pdf)" href="https://www.physics.wisc.edu/undergrads/courses/fall2017/321/homework/hw12.pdf"><i class="fas fa-file-pdf"></i></a> 
-
-
+</strong> 
+      </li>
+<li class="archiveposturl" style="background: transparent">
+        <span><a href="http://www-classes.usc.edu/engr/ee-s/477p/s17/asst1soln.pdf">logic gates homework</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download problems (pdf)" href="http://www-classes.usc.edu/engr/ee-s/477p/s17/asst1soln.pdf"><i class="fas fa-file-pdf"></i></a> 
 </strong> 
       </li>
 
-     
+   
 
 <!-- <ul id="archive">
 {% for asg in site.assignments reversed %}
